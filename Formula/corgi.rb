@@ -3,9 +3,9 @@
 class Corgi < Formula
   desc "Corgi is a command-line workflow manager that helps with your repetitive command usages by organizing them into reusable snippet"
   homepage "https://github.com/DrakeW/corgi"
-  url "https://github.com/DrakeW/corgi/releases/download/v0.2.2/corgi_v0.2.2_macOS_64-bit.tar.gz"
-  version "0.2.2"
-  sha256 "1eda2c5fa2960416b4528c99e27600daabe13b74f6bf6b205a1a442634878594"
+  url "https://github.com/DrakeW/corgi/releases/download/v0.2.3/corgi_v0.2.3_macOS_64-bit.tar.gz"
+  version "0.2.3"
+  sha256 "b5ae0ce16d979a5f466725eb1ea67776f62a37c17b64a4f2ddd00d36c2e4bafa"
 
   depends_on "fzf"
 
